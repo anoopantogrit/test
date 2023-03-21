@@ -10,8 +10,7 @@
   <DisplayName DefaultValue="Work Request"/>
   <Description DefaultValue="Ticket creation"/>
   <IconUrl DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/assets/icon-64.png"/>
-  <SupportUrl DefaultValue="https://learn.microsoft.com/office/dev/add-ins/overview/office-add-in-code-samples"/>
+  <HighResolutionIconUrl DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/assets/icon-64.png"/>  
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
   </AppDomains>
