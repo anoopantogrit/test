@@ -26,7 +26,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/taskpane.html"/>
+        <SourceLocation DefaultValue="https://github.com/anoopantogrit/test/blob/61970f5c5048f92872a480ecdfce7a20a4f823ab/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
